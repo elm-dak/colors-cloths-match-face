@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+myvenv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+/.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Other
+*.DS_Store
+*.env
+
+#model
+models/
